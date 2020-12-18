@@ -23,9 +23,9 @@ const Hero = () => {
       <Sidebar isOpen={isOpen} toggle={toggle} />
       <HeroContent>
         <HeroItems>
-          <HeroH1>Greatest Pizza Ever</HeroH1>
-          <HeroP>Ready in 60 seconds</HeroP>
-          <HeroBtn>Place Order</HeroBtn>
+          <HeroH1>Spices and Curries</HeroH1>
+          <HeroP>Because taste matters</HeroP>
+          <HeroBtn><a style={{color: 'inherit', textDecoration: 'none'}} href='https://www.facebook.com/Curry-up-please-107589634398071'>Place Order</a></HeroBtn>
         </HeroItems>
       </HeroContent>
     </HeroContainer>

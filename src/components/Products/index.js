@@ -25,7 +25,7 @@ const Products = ({ heading, data }) => {
                 <ProductTitle>{product.name}</ProductTitle>
                 <ProductDesc>{product.desc}</ProductDesc>
                 <ProductPrice>{product.price}</ProductPrice>
-                <ProductButton>{product.button}</ProductButton>
+                <ProductButton><a style={{color: 'inherit', textDecoration: 'none'}} href='https://www.facebook.com/Curry-up-please-107589634398071'>{product.button}</a></ProductButton>
               </ProductInfo>
             </ProductCard>
           );

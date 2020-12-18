@@ -22,28 +22,14 @@ const Footer = () => {
       <FooterWrap>
         <SocialMedia>
           <SocialMediaWrap>
-            <SocialLogo to='/'>Pizza</SocialLogo>
+            <SocialLogo to='/'>CurryUpPlease</SocialLogo>
             <SocialIcons>
-              <SocialIconLink href='/' target='_blank' aria-label='Facebook'>
+              <SocialIconLink href='https://www.facebook.com/Curry-up-please-107589634398071' target='_blank' aria-label='Facebook'>
                 <FaFacebook />
               </SocialIconLink>
-              <SocialIconLink href='/' target='_blank' aria-label='Instagram'>
+              {/* <SocialIconLink href='/' target='_blank' aria-label='Instagram'>
                 <FaInstagram />
-              </SocialIconLink>
-              <SocialIconLink href='/' target='_blank' aria-label='Youtube'>
-                <FaYoutube />
-              </SocialIconLink>
-              <SocialIconLink
-                href='//www.twitter.com/briandesignz'
-                target='_blank'
-                aria-label='Twitter'
-                rel='noopener noreferrer'
-              >
-                <FaTwitter />
-              </SocialIconLink>
-              <SocialIconLink href='/' target='_blank' aria-label='Linkedin'>
-                <FaLinkedin />
-              </SocialIconLink>
+              </SocialIconLink> */}
             </SocialIcons>
           </SocialMediaWrap>
         </SocialMedia>
