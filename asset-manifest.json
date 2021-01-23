@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.js": "/static/js/main.adc1c695.chunk.js",
-    "main.js.map": "/static/js/main.adc1c695.chunk.js.map",
+    "main.js": "/static/js/main.debbc833.chunk.js",
+    "main.js.map": "/static/js/main.debbc833.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.16c94da0.js",
     "runtime-main.js.map": "/static/js/runtime-main.16c94da0.js.map",
-    "static/js/2.7f1b6d75.chunk.js": "/static/js/2.7f1b6d75.chunk.js",
-    "static/js/2.7f1b6d75.chunk.js.map": "/static/js/2.7f1b6d75.chunk.js.map",
+    "static/js/2.9b345f49.chunk.js": "/static/js/2.9b345f49.chunk.js",
+    "static/js/2.9b345f49.chunk.js.map": "/static/js/2.9b345f49.chunk.js.map",
     "static/js/3.1d7b1b36.chunk.js": "/static/js/3.1d7b1b36.chunk.js",
     "static/js/3.1d7b1b36.chunk.js.map": "/static/js/3.1d7b1b36.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.7f1b6d75.chunk.js.LICENSE.txt": "/static/js/2.7f1b6d75.chunk.js.LICENSE.txt",
+    "static/js/2.9b345f49.chunk.js.LICENSE.txt": "/static/js/2.9b345f49.chunk.js.LICENSE.txt",
     "static/media/aloo-parantha.d50549bd.jpg": "/static/media/aloo-parantha.d50549bd.jpg",
-    "static/media/background.8c009d29.jpg": "/static/media/background.8c009d29.jpg",
+    "static/media/background.5a006e7d.jpg": "/static/media/background.5a006e7d.jpg",
+    "static/media/basil-pesto.5265dc76.jpeg": "/static/media/basil-pesto.5265dc76.jpeg",
     "static/media/bhel-puri.bbe2a842.jpg": "/static/media/bhel-puri.bbe2a842.jpg",
     "static/media/burfi.7c01c0bd.jpg": "/static/media/burfi.7c01c0bd.jpg",
     "static/media/butter-chicken.ce3fe64e.jpg": "/static/media/butter-chicken.ce3fe64e.jpg",
+    "static/media/curry-paste.6a9a61d7.jpeg": "/static/media/curry-paste.6a9a61d7.jpeg",
     "static/media/dahi-vada.0b136f1c.jpg": "/static/media/dahi-vada.0b136f1c.jpg",
     "static/media/dal-tadka.02c36b65.jpg": "/static/media/dal-tadka.02c36b65.jpg",
     "static/media/falafel.6ad22b46.jpg": "/static/media/falafel.6ad22b46.jpg",
@@ -26,11 +28,14 @@
     "static/media/potato-curry.7924e575.jpg": "/static/media/potato-curry.7924e575.jpg",
     "static/media/rajma.d4c70a1f.jpg": "/static/media/rajma.d4c70a1f.jpg",
     "static/media/samosa.c7903fa6.jpg": "/static/media/samosa.c7903fa6.jpg",
-    "static/media/veg-korma.f6ce5f2e.jpg": "/static/media/veg-korma.f6ce5f2e.jpg"
+    "static/media/tomato-basil-pesto.1141a63b.jpeg": "/static/media/tomato-basil-pesto.1141a63b.jpeg",
+    "static/media/tomato-garlic-chutney.1875d0c0.jpeg": "/static/media/tomato-garlic-chutney.1875d0c0.jpeg",
+    "static/media/veg-korma.f6ce5f2e.jpg": "/static/media/veg-korma.f6ce5f2e.jpg",
+    "static/media/weekly-menu.11c05765.jpeg": "/static/media/weekly-menu.11c05765.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.16c94da0.js",
-    "static/js/2.7f1b6d75.chunk.js",
-    "static/js/main.adc1c695.chunk.js"
+    "static/js/2.9b345f49.chunk.js",
+    "static/js/main.debbc833.chunk.js"
   ]
 }
