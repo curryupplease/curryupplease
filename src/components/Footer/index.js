@@ -1,11 +1,8 @@
-import React from 'react';
+import React from "react";
 import {
   FaFacebook,
   FaInstagram,
-  FaYoutube,
-  FaTwitter,
-  FaLinkedin
-} from 'react-icons/fa';
+} from "react-icons/fa";
 import {
   FooterContainer,
   FooterWrap,
@@ -13,8 +10,8 @@ import {
   SocialMediaWrap,
   SocialLogo,
   SocialIcons,
-  SocialIconLink
-} from './FooterElements';
+  SocialIconLink,
+} from "./FooterElements";
 
 const Footer = () => {
   return (
@@ -22,14 +19,22 @@ const Footer = () => {
       <FooterWrap>
         <SocialMedia>
           <SocialMediaWrap>
-            <SocialLogo to='/'>CurryUpPlease</SocialLogo>
+            <SocialLogo to="/">CurryUpPlease</SocialLogo>
             <SocialIcons>
-              <SocialIconLink href='https://www.facebook.com/Curry-up-please-107589634398071' target='_blank' aria-label='Facebook'>
+              <SocialIconLink
+                href="https://www.facebook.com/Curry-up-please-107589634398071"
+                target="_blank"
+                aria-label="Facebook"
+              >
                 <FaFacebook />
               </SocialIconLink>
-              {/* <SocialIconLink href='/' target='_blank' aria-label='Instagram'>
+              <SocialIconLink
+                href="https://www.instagram.com/wishwall5"
+                target="_blank"
+                aria-label="Instagram"
+              >
                 <FaInstagram />
-              </SocialIconLink> */}
+              </SocialIconLink>
             </SocialIcons>
           </SocialMediaWrap>
         </SocialMedia>

@@ -7,6 +7,7 @@ export const HeroContainer = styled.div`
   height: 100vh;
   background-position: center;
   background-size: cover;
+  border: 1px solid white;
 `;
 
 export const HeroContent = styled.div`
@@ -53,11 +54,13 @@ export const HeroBtn = styled.button`
   background: #e31837;
   color: #fff;
   transition: 0.2s ease-out;
+  text-decoration: none;
 
   &:hover {
     background: #ffc500;
     transition: 0.2s ease-out;
     cursor: pointer;
     color: #000;
+    text-decoration: none;
   }
 `;

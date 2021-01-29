@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const ProductsContainer = styled.div`
   /* width: 100vw; */
@@ -6,6 +6,7 @@ export const ProductsContainer = styled.div`
   padding: 5rem calc((100vw - 1300px) / 2);
   background: #150f0f;
   color: #fff;
+  border: 1px solid white;
 `;
 
 export const ProductWrapper = styled.div`
